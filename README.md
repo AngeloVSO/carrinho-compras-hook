@@ -11,6 +11,10 @@ Aplicação onde realizo o desafio de criar um custom hook de um carrinho de com
 👉 Status: Concluído ✅👏
 </h4>
 
+<div align='center'>
+  <img src="https://user-images.githubusercontent.com/70985334/128948971-595a6a69-b8ae-4d63-b653-bd7459ad1f6b.png" width="600" alt="Cart" />
+  <img src="https://user-images.githubusercontent.com/70985334/128948975-1e1c6384-bfa8-46c2-b3a8-a3e9e8a824e4.png" width="600" alt="Cart" />
+</div>
 <hr />
 
 ## ⛏ Tecnologias
